@@ -70,5 +70,9 @@ public static void main(String[] args) {
 //	System.out.println(i);
 //	i++;
 //}
+	
+int [] a = {2,3,5,6,3};
+
+
 }
 }
