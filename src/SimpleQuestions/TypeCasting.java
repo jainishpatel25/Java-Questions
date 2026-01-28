@@ -68,7 +68,7 @@ public class TypeCasting {
 //        System.out.println("Byte value: " + b);
 //        System.out.println("Int value: " + num);
 
-
 		
+				
 	}
 }
