@@ -2,7 +2,7 @@ package loops;
 
 import java.util.Scanner;
 
-public class PrimeNumber {
+public class ReverseTheDigit {
 
 	public static void main(String[] args) {
 		
@@ -18,5 +18,7 @@ public class PrimeNumber {
 			n = n/10;
 		}
 		System.out.println(mul);
+		
+
 	}
 }
